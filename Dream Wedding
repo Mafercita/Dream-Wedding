@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <title>DREAM WEDDING</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+  <meta property="og:title" content="">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="">
+  <meta property="og:site_name" content="">
+  <meta property="og:description" content="">
+
+  <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image" content="">
+
+  <!-- Place your favicon.ico and apple-touch-icon.png in the template root directory -->
+  <link href="favicon.ico" rel="shortcut icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate-css/animate.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <div id="preloader"></div>
+
+  <!--==========================
+  Hero Section
+  ============================-->
+  <section id="hero">
+    <div class="hero-container">
+      <div class="wow fadeIn">
+        <div class="hero-logo">
+          <img class="" src="img/logo2.png" alt="myjservices">
+        </div>
+
+        <h1>Bienvenidos a M y J servicios</h1>
+        <h2>Realizamos <span class="rotating">bodas perfectas, eventos incomparables , tus sueños</span></h2>
+        <div class="actions">
+          <a href="#about" class="btn-get-started">Iniciar</a>
+          <a href="#servicios" class="btn-services">Nuestros Servicios</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Sección de encabezado
+  ============================-->
+  <header id="header">
+    <div class="container">
+      <div id="logo" class="pull-left">
+        <a href="#hero"><img src="img/logo2.png" alt="" title="" /></img></a>
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#hero">Inicio</a></li>
+          <li><a href="#about">Sobre Nosotros</a></li>
+          <li><a href="#servicios">Servicios</a></li>
+          <li><a href="#portfolio">Portafolio</a></li>
+          <li><a href="#testimonials">Testimonios</a></li>
+          <li><a href="#team">Team</a></li></li>
+<li class="menu-has-children"><a href="">Información Extra</a>
+            <ul>
+              <li><a href="file:///C:/Users/hugo%20guarena/Desktop/Proyecto%20Bodas/MyJServicios/Weeding%20planner.html#about">Wedding Planner</a></li>
+              <li class="menu-has-children"><a href="file:///C:/Users/hugo%20guarena/Desktop/Proyecto%20Bodas/MyJServicios/Importancia.html">Importancia</a>
+              
+          </li>   </ul>
+          <li><a href="#contact">Contactenos </a></li>
+        </ul>
+      </nav>
+      <!-- #nav-menu-container -->
+    </div>
+  </header>
+  <!-- #header -->
+
+
+  <!--==========================
+  About Section
+  ============================-->
+  <section id="about">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Sobre Nosotros</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Primero debemos explicar a usted cómo nació esta idea </p>
+        </div>
+      </div>
+    </div>
+    <div class="container about-container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-6 col-md-push-6 about-content">
+          <h2 class="about-title">Los Mejores Productos y Servicios de Bodas</h2>
+          <p class="about-text">
+            Somos una organización que nacío de un sueño de dos jóvenes enamorados, que andaban en busca de las mejores ideas para poder organizar la boda de sus sueños; muchas veces es difícil encontrar exactamente lo que uno busca, y gracias a esto surgió la idea de crear una página que facilite toda esta búsqueda y además ofrezca todo lo que necesita para poder llevar a cabo su boda.
+          </p>
+          <p class="about-text">
+            Empezamos con un pequeño equipo de personal llevando a cabo nuestros primeros eventos de la mejor manera, satisfaciendo a nuestros clientes, lo cual nos impulsó a seguir creciendo como organización e ir mejorando en varios aspectos.
+          </p>
+          <p class="about-text">
+            Agradecemos el interés por nuestro sitio, ya contamos con miles de clientes satisfechos alrededor de toda Bolivia, gracias a ustedes es que crecemos como organización para poder brindarle lo mejor de lo mejor.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Servicio Section
+  ============================-->
+  <section id="servicios">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Nuestros Servicios</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Le ofrecemos los siguientes servicios para poder tener la boda de sus sueños</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-desktop"></i></div>
+          <h4 class="service-title"><a href="">Buffetes Especiales</a></h4>
+          <p class="service-description">Ofrecemos variedad de menús a elección, con platillos extravagantes, aperitivos y gran variedad de bebidas</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
+          <h4 class="service-title"><a href="">Decoración de Ambientes</a></h4>
+          <p class="service-description">Contamos con los mejores diseñadores creativos para hacer de su boda un atractivo para todos los invitados, con arreglos tanto en el templo, como en la fiesta</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
+          <h4 class="service-title"><a href="">Pasteles de Boda</a></h4>
+          <p class="service-description">Los mejores pasteles con el diseño y sabores que desee, pasteles de todo tamaño, precio, ingredientes y sobre todo de calidad</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-photo"></i></div>
+          <h4 class="service-title"><a href="">Recepción</a></h4>
+          <p class="service-description">Ofrecemos el servicio de recepción a cargo de personal profesional en ámbitos de atención e interacción con los clientes, su comodidad es nuestra prioridad</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-road"></i></div>
+          <h4 class="service-title"><a href="">Luna de Miel</a></h4>
+          <p class="service-description">Trabajamos con agencias exclusivas que ofrecen diversos paquetes turísticos, a cualquier lugar que desee a precios sumamente moderados</p>
+        </div>
+        <div class="col-md-4 service-item">
+          <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
+          <h4 class="service-title"><a href="">Vestidos de novia y Trajes de novio</a></h4>
+          <p class="service-description">Para la novia vestidos exclusivos de diseñadores reconocidos y para el novio la elegancia y calidad de trajes únicos</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Porfolio Section
+  ============================-->
+  <section id="portfolio">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Portafolio</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Estos son los diferentes servicios y productos que ofrecemos</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-1.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 1</h4>
+              <span>Amor en Paris</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-2.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 2</h4>
+              <span>Vestidos de Novia</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-3.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 3</h4>
+              <span>Trajes de Novio</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-4.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 4</h4>
+              <span>Decoración de Bodas</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-5.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 5</h4>
+              <span>Buffete de bodas</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-6.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 6</h4>
+              <span>Servicios para bodas</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-7.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 7</h4>
+              <span>Luna de Miel</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/portfolio-8.jpg);" href="">
+            <div class="details">
+              <h4>Portafolio 8</h4>
+              <span>Pasteles de bodas</span>
+            </div>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Testimonials Section
+  ============================-->
+  <section id="testimonials">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Testimonios</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Aquí le presentamos algunos comentarios de clientes que ya probaron nuestros servicios</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <div class="profile">
+            <div class="pic"><img src="img/p1.jpg" alt=""></div>
+            <h4>Pedro Gonzales</h4>
+            <span>USFXCH</span>
+          </div>
+        </div>
+        <div class="col-md-9">
+          <div class="quote">
+            <b><img src="img/quote_sign_left.png" alt=""></b> Agradezco a la organización por la variedad de productos y servicios, con una gran calidad y aspecto, además de un precio moderado. La recomiendo totalmente. <small><img src="img/quote_sign_right.png" alt=""></small>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-9">
+          <div class="quote">
+            <b><img src="img/quote_sign_left.png" alt=""></b> El servicio es excelente  Buena atención, gran diversidad de productos para elegir y ni hablar de los precios . <small><img src="img/quote_sign_right.png" alt=""></small>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="profile">
+            <div class="pic"><img src="img/p2.jpg" alt=""></div>
+            <h4>Rocio Daza</h4>
+            <span>Colegio Don Bosco</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!--==========================
+  Team Section
+  ============================-->
+  <section id="team">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Nuestro Team</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Este es nuestro equipo que hizo todo posible, trabajando duro para poder brindarle los mejores productos y servicios.</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/logo3.png" alt=""></div>
+            <h4>M y J Servicios</h4>
+            <span>Página Oficial</span>
+            <div class="social">
+              <a href=""><i class="fa fa-twitter"></i></a>
+              <a href=""><i class="fa fa-facebook"></i></a>
+              <a href=""><i class="fa fa-google-plus"></i></a>
+              <a href=""><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/m.jpg" alt=""></div>
+            <h4>María Fernanda Daza</h4>
+            <span>Organizadora Principal</span>
+            <div class="social">
+              <a href=""><i class="fa fa-twitter"></i></a>
+              <a href=""><i class="fa fa-facebook"></i></a>
+              <a href=""><i class="fa fa-google-plus"></i></a>
+              <a href=""><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/kk.jpg" alt=""></div>
+            <h4>Jesús Enrique Díaz</h4>
+            <span>Jefe de Proyectos</span>
+            <div class="social">
+              <a href=""><i class="fa fa-twitter"></i></a>
+              <a href=""><i class="fa fa-facebook"></i></a>
+              <a href=""><i class="fa fa-google-plus"></i></a>
+              <a href=""><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="member">
+            <div class="pic"><img src="img/kj.jpg" alt=""></div>
+            <h4>Página Compartida</h4>
+            <span>Organización</span>
+            <div class="social">
+              <a href=""><i class="fa fa-twitter"></i></a>
+              <a href=""><i class="fa fa-facebook"></i></a>
+              <a href=""><i class="fa fa-google-plus"></i></a>
+              <a href=""><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Contact Section
+  ============================-->
+  <section id="contact">
+    <div class="container wow fadeInUp">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="section-title">Contáctenos</h3>
+          <div class="section-title-divider"></div>
+          <p class="section-description">Para consultas y más información sobre nuestros servicios o productos no dude en contactarse con nosotros.</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3 col-md-push-2">
+          <div class="info">
+            <div>
+              <i class="fa fa-map-marker"></i>
+              <p>Calle Junín 154<br>Sucre-Bolivia</p>
+            </div>
+
+            <div>
+              <i class="fa fa-envelope"></i>
+              <p>myjservices@donbosco.com</p>
+            </div>
+
+            <div>
+              <i class="fa fa-phone"></i>
+              <p>+591 65272875</p>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-md-5 col-md-push-2">
+          <div class="form">
+            <div id="sendmessage">Tu mensaje fue enviado. Gracias!</div>
+            <div id="errormessage"></div>
+            <form action="" method="post" role="form" class="contactForm">
+              <div class="form-group">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Tu Nombre" data-rule="minlen:4" data-msg="Por favor ingrese al menos 4 caracteres" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Tu Email" data-rule="email" data-msg="Ingresa un Correo Valido" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="Motivo" id="Motivo" placeholder="Motivo" data-rule="minlen:4" data-msg="Por favor ingrese al menos 8 caracteres del tema" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" name="mensaje" rows="5" data-rule="required" data-msg="Por favor escribe algo para nosotros" placeholder="Mensaje"></textarea>
+                <div class="validation"></div>
+              </div>
+              <div class="text-center"><button type="submit">Enviar mensaje</button></div>
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+  Footer
+============================-->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="copyright">
+            &copy; Copyright <strong>M y J Servicios</strong>. Todos los Derechos están reservados
+          </div>
+          <div class="credits">
+        
+            Producido por <a href="https://es-la.facebook.com/jesusenrique.diazrios.1">LGSUS</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- Required JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/morphext/morphext.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/stickyjs/sticky.js"></script>
+  <script src="lib/easing/easing.js"></script>
+
+  <!-- Template Specisifc Custom Javascript File -->
+  <script src="js/custom.js"></script>
+
+  <script src="contactform/contactform.js"></script>
+
+
+</body>
+
+</html>
